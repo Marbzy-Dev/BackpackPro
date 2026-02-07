@@ -1,49 +1,83 @@
 🎒 BackpackPro
-The high-performance, rank-based storage solution with smart auto-sorting!
 
-BackpackPro gives your players a secure, portable vault that grows with them. With an intelligent sorting engine and deep customization, it’s the only storage plugin your server needs for a professional experience.
+A high-performance, rank-based backpack plugin with smart auto-sorting.
+
+BackpackPro gives players a secure, portable vault that grows with their rank.
+With an intelligent sorting engine and deep customization, it delivers a clean, professional storage experience for any server.
 
 🚀 Features
-Dynamic Sizing: Grant 1 to 6 rows of storage based on player ranks/permissions.
+📦 Dynamic Backpack Sizes
 
-Smart-Sort Engine: Organize messy bags instantly! Right-click any empty slot to auto-stack and sort items alphabetically.
+Grant 1 to 6 rows of storage based on permissions or ranks.
 
-Global Sorting: VIP players can use the sorting engine on regular chests and barrels (toggleable).
+🧠 Smart Sort Engine
 
-Base64 Security: Advanced data serialization ensures zero item loss and full NBT/Enchantment support.
+Messy backpack?
+Right-click any empty slot to automatically:
 
-Anti-Exploit: Built-in protection against shulker nesting and customizable item blacklists.
+Stack items
+
+Sort them alphabetically
+
+Optimize space instantly
+
+🌍 Global Chest Sorting
+
+Allow VIP players to use the same sorting engine on:
+
+Chests
+
+Barrels
+
+(Fully toggleable via config)
+
+🔐 Base64 Data Security
+
+Advanced serialization
+
+Full NBT & enchantment support
+
+Zero item loss
+
+🛡️ Anti-Exploit Protection
+
+Prevent shulker nesting
+
+Configurable item blacklist
+
+Designed to stop common storage exploits
 
 🛠 Commands
-/backpack - Open your personal storage vault.
-
-/bp - Quick alias for the backpack command.
+/backpack   Open your personal backpack
+/bp         Quick alias
 
 🔑 Permissions
-backpackpro.use - Access to the backpack command.
-
-backpackpro.size.<1-6> - Defines how many rows a player has.
-
-backpackpro.sort.own - Permission to sort your own backpack.
-
-backpackpro.sort.global - Permission to sort regular chests (Requires config toggle).
+backpackpro.use               Access the backpack
+backpackpro.size.<1-6>        Backpack size (rows)
+backpackpro.sort.own          Sort your own backpack
+backpackpro.sort.global       Sort chests & barrels (requires config toggle)
 
 ⚙️ Configuration
-Customize your experience in the config.yml:
 
-Backpack Title: Set a custom name for the inventory.
+Fully customizable via config.yml:
 
-Item Blacklist: Prevent specific items (like shulkers) from being stored.
+Backpack Title – Set a custom inventory name
 
-Global Toggle: Enable or disable chest sorting for the whole server.
+Item Blacklist – Block specific items (e.g. shulkers)
 
-Full Localization: Edit every message and prefix to match your server style.
+Global Sorting Toggle – Enable/disable chest sorting server-wide
 
-Donate (optional)
-If you enjoy my work and want to support development:
+Full Localization – Edit every message and prefix
 
-Donate via PayPal 💖
+💖 Donate (Optional)
+
+If you enjoy the plugin and want to support development:
+
+👉 Donate via PayPal
+
+👨‍💻 Developer
 
 Developed by Marbzy
 
-Source code is available on request. Please open a GitHub Issue if you need access.
+Source code is available on request.
+Please open a GitHub Issue if you need access.
