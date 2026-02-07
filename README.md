@@ -73,7 +73,7 @@ Full Localization – Edit every message and prefix
 
 If you enjoy the plugin and want to support development:
 
-👉 Donate via PayPal
+[Donate via PayPal](https://paypal.me/Marbzy) 💖 
 
 👨‍💻 Developer
 
